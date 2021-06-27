@@ -12,12 +12,12 @@ label = ttk.Label(root, text='Label with Helvetica size 14 font', font=("Helveti
 label.pack(ipadx=10, ipady=10)
 
 # photo
-photo = tk.PhotoImage(file='fbi_logo.png')
+photo = tk.PhotoImage(file='poggers.png')
 imageLabel = ttk.Label(
     root,
     image=photo,
     padding=5,
-    text='FBI Logo',
+    text='PogChamp',
     compound='top'
 )
 imageLabel.pack()
