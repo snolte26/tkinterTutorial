@@ -6,4 +6,4 @@ INFO:
 
 tutorialFBI.ico is for the window.py tutorial
 
-fbi_logo.png is for the label.py tutorial
+poggers.png is for the label.py tutorial
